@@ -9,6 +9,8 @@ Experiencia como Asistente de enseñanza Full-Stack en Henry Bootcamp y como des
 
 
 Contacto:
+
 📩 nehuenmoralesdev@gmail.com
+
 ➡️ https://www.linkedin.com/in/nehuen-morales-cabrino-22b091211/
 
