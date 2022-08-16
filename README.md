@@ -8,7 +8,7 @@ Experiencia como Asistente de enseñanza Full-Stack en Henry Bootcamp y como des
 🚀 Me apasiona la programación y estar continuamente aprendiendo cosas nuevas.
 
 
-Contacto:
+### Contacto:
 
 📩 nehuenmoralesdev@gmail.com
 
