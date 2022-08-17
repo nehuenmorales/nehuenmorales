@@ -1,4 +1,4 @@
-<img src='../img/Banner-Github.png'>
+<img src='./img/Banner-Github.png'>
 
 # Hola!! Soy Nehuen, Bienvenido/a  
 
