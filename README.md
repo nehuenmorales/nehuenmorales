@@ -10,13 +10,13 @@ Experiencia como Asistente de enseñanza Full-Stack en Henry Bootcamp y como des
 🚀 Me apasiona la programación y estar continuamente aprendiendo cosas nuevas.
 
 ### Skills📚
-##.
+## .
 JavaScript - Node.js - PostgreSQL - Express - Sequelize
-##.
+## .
 React - Redux - CSS - Sequelize - TypeScript - React Native
-##.
+## .
 Java - SpringBoot
-##.
+## .
 Nest.js - Socket.io - MongoDb - JWT
 
 
