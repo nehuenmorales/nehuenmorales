@@ -2,23 +2,9 @@
 
 # Hola!! Soy Nehuen, Bienvenido/a  
 
-### Sobre mi👨‍💻
+✅Soy desarrollador Full Stack y me centro en el desarrollo de sistemas completos (Base de datos, Servidor, cliente). Actualmente estoy utilizando dentro de mis stack de tecnologías a C# y .NET en el desarrollo backend, React en el Frontend y Base de datos relacionales como SQL Server. Aunque las tecnologías que utilizo suelen variar según la necesidad.
 
-✅Desarrollador Web Full Stack, con conocimientos en JavaScript, Node.js, Express, Sequelize, PostgreSQL, React, Redux, entre otros.
-Experiencia como Asistente de enseñanza Full-Stack en Henry Bootcamp y como desarrollador Full-Stack trabajando en proyectos de desarrollo academico.
-
-🚀 Me apasiona la programación y estar continuamente aprendiendo cosas nuevas.
-
-### Skills📚
-## .
-JavaScript - Node.js - PostgreSQL - Express - Sequelize
-## .
-React - Redux - CSS - Sequelize - TypeScript - React Native
-## .
-Java - SpringBoot
-## .
-Nest.js - Socket.io - MongoDb - JWT
-
+🚀 Me apasiona la tecnologia y Me gusta enfrentarme a desafios nuevos cada dia.
 
 ### Contacto
 
